@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html version="-//W3C//DTD XHTML 1.1//EN"
+
+ xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="description" content="Chapel Church is United Methodist Church in Deerfield Beach, Florida. No matter where you are in your faith journey, we want to welcome you into our church family. Join us on Sundays at 10:00am for worship. "/>
+	<meta name="keywords" content="Church, God, Methodist, Jesus"/>
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Chapel Church: A United Methodist Congregation</title>
+       <link href="styles.css" rel="stylesheet"/>
+       
+
+
+</head>
+
+<body>
+<div class= "social">
+<a href="https://www.instagram.com/"><img src="instagramicon.png" alt="Insta Icon" class="icon" /></a>
+<a href="https://www.facebook.com/"><img src="facebookicon.png" alt="Facebook Icon" class="icon" /></a>
+</div>
+	
+<div class="header">
+<a href="index.php"><img src="chapellogowhite.png" alt="Chapel Logo" class="logo" /></a>
+</div>
